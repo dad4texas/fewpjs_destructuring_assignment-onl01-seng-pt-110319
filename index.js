@@ -31,7 +31,7 @@ const k_muppet = {
 const [moo, neigh, baa, oink, cluck] = farmAnimals.split(" ")
 
 // 2. Bolt the horse wandered off, so just give us four animals, and let's name them Bessie, Dolly, Babe, and Little.
-
+const [Bessie, , Dolly, Babe, Little] =  farmAnimals.split(" ")
 // 3. Little the chicken had to go back to the coop, so now we're left with three. Let's use color variables of black_and_white, black, and pink.
 
 // Arrays
@@ -40,7 +40,7 @@ const [moo, neigh, baa, oink, cluck] = farmAnimals.split(" ")
 
 // 5. Some people have a really hard time picking out indigo, so let's leave that one out, using the first letter of each color as the variable names.
 
-// 6. But wait! Indigo is now feeling *super* left out. Let's only assign indigo using indg.
+// 6. But wait! Indigo is now feeling *super* left out. Let's only assign indigo using indg. 
 
 // Objects
 
